@@ -41,7 +41,6 @@ Jarvish/
 │── musiclibrary.py
 │── .env
 │── .gitignore
-│── requirements.txt
 │── README.md
 ```
 
@@ -137,7 +136,7 @@ API keys are stored securely using a `.env` file and are excluded from version c
 
 ## 👨‍💻 Author
 
-**Prit Patel**
+**Prit Trivedi**
 
 GitHub: https://github.com/Prit802-coder
 
